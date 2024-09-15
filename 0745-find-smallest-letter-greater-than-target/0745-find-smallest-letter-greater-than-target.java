@@ -7,6 +7,8 @@ class Solution {
         while (start <= end) {
             int mid = start + (end - start) / 2;
 
+            System.out.println("mid" + mid);
+
             // 현재 문자가 목표 문자보다 작거나 같으면 오른쪽 절반을 검색
             if (letters[mid] <= target) {
                 start = mid + 1;
