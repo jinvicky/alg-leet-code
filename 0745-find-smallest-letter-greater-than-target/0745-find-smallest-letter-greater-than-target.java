@@ -1,21 +1,22 @@
 class Solution {
-     public static char nextGreatestLetter(char[] letters, char target) {
-        int left = 0;
-        int right = letters.length - 1;
+    public char nextGreatestLetter(char[] letters, char target) {
+        int start = 0;
+        int end = letters.length - 1;
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
+        // 이진 검색을 수행
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
 
-            if (target < letters[mid]) {
-                right = mid - 1;
+            // 현재 문자가 목표 문자보다 작거나 같으면 오른쪽 절반을 검색
+            if (letters[mid] <= target) {
+                start = mid + 1;
             } else {
-                left = mid + 1;
+                // 현재 문자가 목표 문자보다 크면 왼쪽 절반을 검색
+                end = mid - 1;
             }
         }
 
-        if (left < letters.length) {
-            return letters[left];
-        }
-        return letters[0];
-     }
+        // start가 배열 길이를 초과하면 첫 번째 문자를 반환
+        return start < letters.length ? letters[start] : letters[0];
+    }
 }
