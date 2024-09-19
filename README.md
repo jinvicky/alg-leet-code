@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/jinvicky/alg-leet-code/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/jinvicky/alg-leet-code/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/jinvicky/alg-leet-code/tree/master/1791-richest-customer-wealth) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/jinvicky/alg-leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/jinvicky/alg-leet-code/tree/master/0908-middle-of-the-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/jinvicky/alg-leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-snapshot-array](https://github.com/jinvicky/alg-leet-code/tree/master/1249-snapshot-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/jinvicky/alg-leet-code/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/jinvicky/alg-leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
@@ -106,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0436-find-right-interval](https://github.com/jinvicky/alg-leet-code/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/jinvicky/alg-leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Design
 |  |
 | ------- |
