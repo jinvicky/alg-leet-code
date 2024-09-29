@@ -1,21 +1,30 @@
 class Solution {
     public int findMaxLength(int[] nums) {
-        int N = nums.length;
-        int[] mp = new int[2*N+2];
-        int current = N;
-        int result = 0;
-
-        for(int i = 0; i < N; i++) {
-            current += (nums[i] << 1) - 1;
-            System.out.println(current);
-            if(current == N) {
-                result = i+1;
-            } else if (mp[current] == 0) {
-                mp[current] = i+1;
+        int n = nums.length;
+        for(int i = 0; i < n; i++) {
+            if(nums[i]==0) {
+                nums[i] = -1;
             } else {
-                result = Math.max(result, i - mp[current] + 1);
+                nums[i] = 1;
             }
         }
-        return result;
+
+        HashMap<Integer, Integer> h = new HashMap<>();
+        int sum = 0; 
+        int ans = 0;
+        for(int i = 0; i < n; i++) {
+            sum += nums[i];
+            if(sum == 0) {
+                ans = Math.max(i+1, ans);
+            }
+
+            if(h.containsKey(sum)) {
+                ans = Math.max(i- h.get(sum), ans);
+            } else {
+                h.put(sum, i);
+            }
+        }
+
+        return ans;
     }
 }
