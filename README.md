@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/jinvicky/alg-leet-code/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/jinvicky/alg-leet-code/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/jinvicky/alg-leet-code/tree/master/0436-find-right-interval) |
 | [0525-contiguous-array](https://github.com/jinvicky/alg-leet-code/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/jinvicky/alg-leet-code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jinvicky/alg-leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/jinvicky/alg-leet-code/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/jinvicky/alg-leet-code/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/jinvicky/alg-leet-code/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/jinvicky/alg-leet-code/tree/master/0525-contiguous-array) |
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jinvicky/alg-leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/jinvicky/alg-leet-code/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/jinvicky/alg-leet-code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/jinvicky/alg-leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/jinvicky/alg-leet-code/tree/master/0436-find-right-interval) |
@@ -127,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jinvicky/alg-leet-code/tree/master/0015-3sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/jinvicky/alg-leet-code/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
