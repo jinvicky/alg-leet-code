@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/jinvicky/alg-leet-code/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/jinvicky/alg-leet-code/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/jinvicky/alg-leet-code/tree/master/0412-fizz-buzz) |
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/jinvicky/alg-leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jinvicky/alg-leet-code/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/jinvicky/alg-leet-code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jinvicky/alg-leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/jinvicky/alg-leet-code/tree/master/0908-middle-of-the-linked-list) |
