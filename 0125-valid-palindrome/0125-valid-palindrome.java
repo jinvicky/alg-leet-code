@@ -36,7 +36,6 @@ class Solution {
         int right = s.length() - 1;
 
         while (left <= right) {
-            System.out.println("left and right: " + left + " : " + right);
             char leftVal = Character.toLowerCase(s.charAt(left));
             char rightVal = Character.toLowerCase(s.charAt(right));
 
