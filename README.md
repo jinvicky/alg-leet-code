@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/jinvicky/alg-leet-code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jinvicky/alg-leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jinvicky/alg-leet-code/tree/master/0344-reverse-string) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/jinvicky/alg-leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jinvicky/alg-leet-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/jinvicky/alg-leet-code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jinvicky/alg-leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/jinvicky/alg-leet-code/tree/master/0283-move-zeroes) |
@@ -161,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
