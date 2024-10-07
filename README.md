@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/jinvicky/alg-leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/jinvicky/alg-leet-code/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
 ## Simulation
 |  |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/jinvicky/alg-leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/jinvicky/alg-leet-code/tree/master/0525-contiguous-array) |
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/jinvicky/alg-leet-code/tree/master/1249-snapshot-array) |
@@ -192,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
