@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/jinvicky/alg-leet-code/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/jinvicky/alg-leet-code/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/jinvicky/alg-leet-code/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/jinvicky/alg-leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jinvicky/alg-leet-code/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/jinvicky/alg-leet-code/tree/master/0011-container-with-most-water) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jinvicky/alg-leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jinvicky/alg-leet-code/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/jinvicky/alg-leet-code/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 ## Queue
 |  |
