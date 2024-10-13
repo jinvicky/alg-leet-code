@@ -1,7 +1,6 @@
 class Solution {
     private boolean isVowel(char alpha) {
        char lowerAlpha = Character.toLowerCase(alpha);
-
        if(lowerAlpha == 'a'
        || lowerAlpha == 'e'
        || lowerAlpha == 'i'
@@ -27,16 +26,22 @@ class Solution {
         }
         
     
-        while(!stack.isEmpty()) {
-            int index = queue.poll();
-            char alpha = stack.pop();
+        // while(!stack.isEmpty()) {
+        //     int index = queue.poll();
+        //     char alpha = stack.pop();
 
-            alphabets[index] = alpha;
-        }
+        //     alphabets[index] = alpha;
+        // }
 
         StringBuilder sb = new StringBuilder();
         for(int j = 0; j < alphabets.length; j++) {
-            sb.append(alphabets[j]);
+            if(!queue.isEmpty() && queue.peek() == j) {
+                int index = queue.poll();
+                char alpha = stack.pop();
+                sb.append(alpha);
+            } else {
+                sb.append(alphabets[j]);
+            }
         }
         return sb.toString();
     }
