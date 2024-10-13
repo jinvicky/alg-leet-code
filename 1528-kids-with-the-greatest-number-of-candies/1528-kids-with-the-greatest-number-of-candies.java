@@ -4,8 +4,8 @@ class Solution {
 
         for(int i = 0; i < candies.length; i++) {
             int item = candies[i];
-            max = Math.max(max, item);
-
+            // max = Math.max(max, item);
+            max = item > max ? item : max;
             candies[i] = item + extraCandies;
         }
 
