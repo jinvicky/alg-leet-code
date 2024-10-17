@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/jinvicky/alg-leet-code/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/jinvicky/alg-leet-code/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/jinvicky/alg-leet-code/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jinvicky/alg-leet-code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jinvicky/alg-leet-code/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/jinvicky/alg-leet-code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jinvicky/alg-leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/jinvicky/alg-leet-code/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/jinvicky/alg-leet-code/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/jinvicky/alg-leet-code/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/jinvicky/alg-leet-code/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
