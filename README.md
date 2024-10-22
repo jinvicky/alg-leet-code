@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/jinvicky/alg-leet-code/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
@@ -146,11 +147,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-snapshot-array](https://github.com/jinvicky/alg-leet-code/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/jinvicky/alg-leet-code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jinvicky/alg-leet-code/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/jinvicky/alg-leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/jinvicky/alg-leet-code/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jinvicky/alg-leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Design
 |  |
