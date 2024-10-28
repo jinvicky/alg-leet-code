@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/jinvicky/alg-leet-code/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/jinvicky/alg-leet-code/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0649-dota2-senate](https://github.com/jinvicky/alg-leet-code/tree/master/0649-dota2-senate) |
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
@@ -219,10 +220,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/jinvicky/alg-leet-code/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/jinvicky/alg-leet-code/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
+| [0649-dota2-senate](https://github.com/jinvicky/alg-leet-code/tree/master/0649-dota2-senate) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/jinvicky/alg-leet-code/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/jinvicky/alg-leet-code/tree/master/0969-number-of-recent-calls) |
 ## String Matching
 |  |
