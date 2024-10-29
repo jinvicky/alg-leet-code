@@ -33,6 +33,7 @@ class Solution {
         {
             d+=Math.ceil((double)arr[i]/k);
             
+            
         }
         return d;
     }
