@@ -1,35 +1,26 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
+        // 무조건 Arrays.sort()했다고 성능이 나아지는 게 아니었다;; 위에 거에 sort()했더니 성능이 더 나빠짐.
         Arrays.sort(piles);
+        int min = 1;
+        int max = piles[piles.length - 1];
 
-        int max = Integer.MIN_VALUE;
-        for (int i = 0; i < piles.length; i++) {
-            max = Math.max(piles[i], max);
-        }
-        int low = 1;
-        int high = max;
-        int a = -1;
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            int ans = ispos(piles, mid);
-
-            if (ans <= h) {
-                a = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+        while(min<max) {
+            int mid = min + (max - min) / 2;
+            if(canEat(mid, piles) > h) {
+                min=mid+1;
+            }else {
+                max=mid;
             }
         }
-        return a;
-
+        return min;
     }
-
-    public int ispos(int[] arr, int k) {
-        int d = 0;
-        for (int i = 0; i < arr.length; i++) {
-            d += Math.ceil((double) arr[i] / k);
-
+    
+    public int canEat(int mid, int[] piles) {
+        int n = 0;
+        for(int pile : piles) {
+            n = n + (pile + mid - 1)/mid;
         }
-        return d;
+        return n;
     }
 }
