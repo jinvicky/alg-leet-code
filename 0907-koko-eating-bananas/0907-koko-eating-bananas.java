@@ -1,26 +1,39 @@
 class Solution {
-   public int minEatingSpeed(int[] piles, int h) {
-        Arrays.sort(piles); // 이 문제에서는 더미의 순서, 아이템과 인덱스가 별로 안 중요해서 정렬해도 무방함
-        int len = piles.length;
-        int start = 1;
-        int end = piles[len - 1];
-
-        while(start < end) {
-            int speed = (start + end) / 2;
-            int time = 0;
-            for(int i = 0; i < len; i++) {
-                time += Math.ceil((double) piles[i] / speed);
-                if(time > h) {
-                    start = speed+1;
-                    break;
-                }
+    public int minEatingSpeed(int[] piles, int h) {
+         int max=Integer.MIN_VALUE;
+        for(int i=0;i<piles.length;i++)
+        {
+            max=Math.max(piles[i],max);
+        }
+        int low=1;
+        int high=max;
+        int a=-1;
+        while(low<=high)
+        {
+            int mid=low+(high-low)/2;
+            int ans=ispos(piles,mid);
+            
+            if(ans<=h)
+            { 
+                a=mid;  
+                high=mid-1;
             }
-
-            if(time <= h) {
-                end = speed;
+            else
+            {
+                low=mid+1;
             }
         }
-        return start;
-   }
-
+        return a;
+        
+    }
+    public int ispos(int[] arr,int k)
+    {
+        int d=0;
+        for(int i=0;i<arr.length;i++)
+        {
+            d+=Math.ceil((double)arr[i]/k);
+            
+        }
+        return d;
+    }
 }
