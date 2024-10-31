@@ -1,48 +1,42 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        // int[] answer = new int[nums.length];
-        // int sum = 1; // zero 값 제외
-        // int zeroCount = 0;
+        int[] arr = new int[nums.length];
+        int zeroCount = 0;
 
-        // for (int i = 0; i < nums.length; i++) {
-        //     if (nums[i] == 0) {
-        //         zeroCount++;
-        //     } else {
-        //         sum *= nums[i];
-        //     }
-        // }
+        arr[0] = nums[0];
+        if(nums[0] == 0) {
+            zeroCount++;
+            arr[0] = 1;
+        }
+        for (int i = 1; i < nums.length; i++) {
 
-        // if (zeroCount == 1) {
-        //     for (int i = 0; i < nums.length; i++) {
-        //         answer[i] = nums[i] == 0 ? sum : 0;
-        //     }
-        // } else if (zeroCount >= 2) {
-        //     for (int i = 0; i < nums.length; i++) {
-        //         answer[i] = 0;
-        //     }
-        // } else {
-        //     for (int i = 0; i < nums.length; i++) {
-        //         answer[i] = sum / (nums[i]);
-        //     }
-        // }
-        // return answer;
+            if (nums[i] == 0) {
+                zeroCount++;
+                arr[i] = arr[i - 1];
 
-        int[] output = new int[nums.length];
-        for(int i = 0; i < nums.length; i++) {
-            output[i] = 1;
+            } else {
+                arr[i] = arr[i - 1] * nums[i];
+            }
         }
 
-        int left = 1;
-        for (int i = 0; i < nums.length; i++) {
-            output[i] *= left;
-            left *= nums[i];
-        }
+        if (zeroCount > 1) {
+            return new int[nums.length];
+        } else if (zeroCount == 1) {
+            int[] result = new int[nums.length];
+            for (int i = 0; i < nums.length; i++) {
+                if (nums[i] == 0) {
+                    result[i] = arr[nums.length - 1];
+                }
+            }
+            return result;
+        } else {
+            // 0이 없는 경우
+            int[] result = new int[nums.length];
+            for (int i = 0; i < nums.length; i++) {
+                result[i] = arr[nums.length - 1] / nums[i];
 
-        int right = 1;
-        for(int i = nums.length - 1; i>= 0; i--) {
-            output[i] *= right;
-            right *= nums[i];
+            }
+            return result;
         }
-        return output;
     }
 }
