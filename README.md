@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/jinvicky/alg-leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/jinvicky/alg-leet-code/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jinvicky/alg-leet-code/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/jinvicky/alg-leet-code/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jinvicky/alg-leet-code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jinvicky/alg-leet-code/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -293,9 +294,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0394-decode-string](https://github.com/jinvicky/alg-leet-code/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/jinvicky/alg-leet-code/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/jinvicky/alg-leet-code/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/jinvicky/alg-leet-code/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/jinvicky/alg-leet-code/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/jinvicky/alg-leet-code/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
