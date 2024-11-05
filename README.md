@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/jinvicky/alg-leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/jinvicky/alg-leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jinvicky/alg-leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jinvicky/alg-leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/jinvicky/alg-leet-code/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/jinvicky/alg-leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/jinvicky/alg-leet-code/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/jinvicky/alg-leet-code/tree/master/0969-number-of-recent-calls) |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jinvicky/alg-leet-code/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
