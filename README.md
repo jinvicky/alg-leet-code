@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-snapshot-array](https://github.com/jinvicky/alg-leet-code/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/jinvicky/alg-leet-code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jinvicky/alg-leet-code/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jinvicky/alg-leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/jinvicky/alg-leet-code/tree/master/1603-running-sum-of-1d-array) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/jinvicky/alg-leet-code/tree/master/0649-dota2-senate) |
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/jinvicky/alg-leet-code/tree/master/1894-merge-strings-alternately) |
 ## Simulation
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/jinvicky/alg-leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1249-snapshot-array](https://github.com/jinvicky/alg-leet-code/tree/master/1249-snapshot-array) |
+| [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/jinvicky/alg-leet-code/tree/master/1646-kth-missing-positive-number) |
@@ -224,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jinvicky/alg-leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jinvicky/alg-leet-code/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
+| [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -263,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jinvicky/alg-leet-code/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -311,4 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0739-daily-temperatures](https://github.com/jinvicky/alg-leet-code/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/jinvicky/alg-leet-code/tree/master/0937-online-stock-span) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
