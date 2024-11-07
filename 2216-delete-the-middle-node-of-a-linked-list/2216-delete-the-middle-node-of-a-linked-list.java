@@ -40,14 +40,22 @@ class Solution {
         }
         
         // 여기서 slow가 가리키는 노드를 삭제
-        if (prev != null) {
-            prev.next = slow.next;  // prev의 다음을 slow의 다음으로 연결
+        // if (prev != null) {
+        //     prev.next = slow.next;  // prev의 다음을 slow의 다음으로 연결
+        // }
+
+        if(prev != null){
+            prev.next = slow.next;
+            return head;
         }
+        else{
+            return slow.next;
+        }     
         
-        System.out.println("1. "+prev.val);
-        System.out.println(slow.val);
-        // 이제 slow가 가리키는 노드를 remove 
-        prev.next=slow.next;
-        return head;   
+        // // System.out.println("1. "+prev.val);
+        // // System.out.println(slow.val);
+        // // 이제 slow가 가리키는 노드를 remove 
+        // prev.next=slow.next;
+        // return head;   
     }
 }
