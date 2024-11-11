@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jinvicky/alg-leet-code/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/jinvicky/alg-leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/jinvicky/alg-leet-code/tree/master/0367-valid-perfect-square) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jinvicky/alg-leet-code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jinvicky/alg-leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/jinvicky/alg-leet-code/tree/master/0198-house-robber) |
@@ -337,4 +339,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jinvicky/alg-leet-code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
