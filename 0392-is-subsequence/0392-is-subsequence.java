@@ -1,18 +1,17 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        char[] sToArr = s.toCharArray();
-        char[] tToArr = t.toCharArray();
-        int sp = 0;
+        int pointer = 0;
+        int range = s.length();
 
-        if(sToArr.length < 1) { // "" 일경우 항상 true
-            return true;
-        }
-
-        for(int i = 0; i < tToArr.length; i++) {
-            if(sp < sToArr.length && sToArr[sp] == tToArr[i]) {
-                sp++;
+        for (int i = 0; i < t.length(); i++) {
+            if (pointer >= range) {
+                return true;
+            }
+            if (s.charAt(pointer) == t.charAt(i)) {
+                pointer++;
             }
         }
-        return sp < sToArr.length ? false : true;
+
+        return pointer >= range;
     }
 }
