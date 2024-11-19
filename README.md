@@ -376,4 +376,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/jinvicky/alg-leet-code/tree/master/2413-smallest-number-in-infinite-set) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
