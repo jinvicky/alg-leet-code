@@ -401,11 +401,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/jinvicky/alg-leet-code/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/jinvicky/alg-leet-code/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/jinvicky/alg-leet-code/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -426,4 +428,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/jinvicky/alg-leet-code/tree/master/3221-find-the-peaks) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/jinvicky/alg-leet-code/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
