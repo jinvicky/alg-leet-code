@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/jinvicky/alg-leet-code/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/jinvicky/alg-leet-code/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/jinvicky/alg-leet-code/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/jinvicky/alg-leet-code/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/jinvicky/alg-leet-code/tree/master/0643-maximum-average-subarray-i) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/jinvicky/alg-leet-code/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jinvicky/alg-leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jinvicky/alg-leet-code/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/jinvicky/alg-leet-code/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/jinvicky/alg-leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jinvicky/alg-leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jinvicky/alg-leet-code/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/jinvicky/alg-leet-code/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/jinvicky/alg-leet-code/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/jinvicky/alg-leet-code/tree/master/0649-dota2-senate) |
@@ -440,4 +443,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/jinvicky/alg-leet-code/tree/master/1908-recyclable-and-low-fat-products) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/jinvicky/alg-leet-code/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
