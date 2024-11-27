@@ -436,4 +436,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/jinvicky/alg-leet-code/tree/master/0871-keys-and-rooms) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/jinvicky/alg-leet-code/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
