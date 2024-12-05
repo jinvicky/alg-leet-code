@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/jinvicky/alg-leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jinvicky/alg-leet-code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/jinvicky/alg-leet-code/tree/master/1448-maximum-69-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/jinvicky/alg-leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jinvicky/alg-leet-code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## String
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jinvicky/alg-leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/jinvicky/alg-leet-code/tree/master/0890-lemonade-change) |
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
+| [1448-maximum-69-number](https://github.com/jinvicky/alg-leet-code/tree/master/1448-maximum-69-number) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jinvicky/alg-leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/jinvicky/alg-leet-code/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2636-maximum-subsequence-score](https://github.com/jinvicky/alg-leet-code/tree/master/2636-maximum-subsequence-score) |
