@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jinvicky/alg-leet-code/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/jinvicky/alg-leet-code/tree/master/2636-maximum-subsequence-score) |
+| [2714-left-and-right-sum-differences](https://github.com/jinvicky/alg-leet-code/tree/master/2714-left-and-right-sum-differences) |
 | [3194-find-words-containing-character](https://github.com/jinvicky/alg-leet-code/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/jinvicky/alg-leet-code/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3221-find-the-peaks](https://github.com/jinvicky/alg-leet-code/tree/master/3221-find-the-peaks) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/jinvicky/alg-leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/jinvicky/alg-leet-code/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/jinvicky/alg-leet-code/tree/master/1833-find-the-highest-altitude) |
+| [2714-left-and-right-sum-differences](https://github.com/jinvicky/alg-leet-code/tree/master/2714-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
