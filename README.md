@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/jinvicky/alg-leet-code/tree/master/0443-string-compression) |
 | [0583-delete-operation-for-two-strings](https://github.com/jinvicky/alg-leet-code/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/jinvicky/alg-leet-code/tree/master/0649-dota2-senate) |
+| [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/jinvicky/alg-leet-code/tree/master/1250-longest-common-subsequence) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/jinvicky/alg-leet-code/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/jinvicky/alg-leet-code/tree/master/0525-contiguous-array) |
+| [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/jinvicky/alg-leet-code/tree/master/0797-rabbits-in-forest) |
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/jinvicky/alg-leet-code/tree/master/1249-snapshot-array) |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0383-ransom-note](https://github.com/jinvicky/alg-leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 ## Binary Search
 |  |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/jinvicky/alg-leet-code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/jinvicky/alg-leet-code/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
+| [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
 | [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -311,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/jinvicky/alg-leet-code/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jinvicky/alg-leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/jinvicky/alg-leet-code/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/jinvicky/alg-leet-code/tree/master/0890-lemonade-change) |
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
@@ -396,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jinvicky/alg-leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
 | [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jinvicky/alg-leet-code/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jinvicky/alg-leet-code/tree/master/2553-total-cost-to-hire-k-workers) |
