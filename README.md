@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/jinvicky/alg-leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jinvicky/alg-leet-code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3321-type-of-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/3321-type-of-triangle) |
+| [3625-stone-removal-game](https://github.com/jinvicky/alg-leet-code/tree/master/3625-stone-removal-game) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jinvicky/alg-leet-code/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3226-minimum-number-game](https://github.com/jinvicky/alg-leet-code/tree/master/3226-minimum-number-game) |
+| [3625-stone-removal-game](https://github.com/jinvicky/alg-leet-code/tree/master/3625-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
