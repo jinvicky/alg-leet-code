@@ -1,21 +1,12 @@
 class Solution {
-      public boolean checkIfPangram(String sentence) {
-        if(sentence.length() < 26) {
+    public boolean checkIfPangram(String sentence) {
+        if (sentence.length() < 26) {
             return false;
         }
-
-        int[] frequency = new int[26];
-
-        for(char c : sentence.toCharArray()) {
-            System.out.println(c-'a');
-            frequency[c - 'a']++;
+        HashMap<Character, Integer> map = new HashMap<>();
+        for (char c : sentence.toCharArray()) {
+            map.put(c, map.getOrDefault(c, 0) + 1);
         }
-
-        for(int i = 0; i < frequency.length; i++) {
-            if(frequency[i] < 1) {
-                return false;
-            }
-        }
-        return true;
+        return map.size() == 26;
     }
 }
