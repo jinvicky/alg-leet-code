@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/jinvicky/alg-leet-code/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jinvicky/alg-leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2235-capitalize-the-title](https://github.com/jinvicky/alg-leet-code/tree/master/2235-capitalize-the-title) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jinvicky/alg-leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/jinvicky/alg-leet-code/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3194-find-words-containing-character](https://github.com/jinvicky/alg-leet-code/tree/master/3194-find-words-containing-character) |
