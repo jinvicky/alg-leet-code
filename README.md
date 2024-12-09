@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jinvicky/alg-leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/jinvicky/alg-leet-code/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/jinvicky/alg-leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jinvicky/alg-leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/jinvicky/alg-leet-code/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3194-find-words-containing-character](https://github.com/jinvicky/alg-leet-code/tree/master/3194-find-words-containing-character) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/jinvicky/alg-leet-code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/jinvicky/alg-leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jinvicky/alg-leet-code/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/jinvicky/alg-leet-code/tree/master/3206-find-common-elements-between-two-arrays) |
