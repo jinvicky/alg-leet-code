@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/jinvicky/alg-leet-code/tree/master/0443-string-compression) |
 | [0583-delete-operation-for-two-strings](https://github.com/jinvicky/alg-leet-code/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/jinvicky/alg-leet-code/tree/master/0649-dota2-senate) |
+| [0742-to-lower-case](https://github.com/jinvicky/alg-leet-code/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
