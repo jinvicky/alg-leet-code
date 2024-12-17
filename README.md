@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/jinvicky/alg-leet-code/tree/master/3194-find-words-containing-character) |
 | [3207-make-three-strings-equal](https://github.com/jinvicky/alg-leet-code/tree/master/3207-make-three-strings-equal) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jinvicky/alg-leet-code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3312-number-of-changing-keys](https://github.com/jinvicky/alg-leet-code/tree/master/3312-number-of-changing-keys) |
 ## Simulation
 |  |
 | ------- |
