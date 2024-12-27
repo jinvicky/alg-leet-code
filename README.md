@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/jinvicky/alg-leet-code/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/jinvicky/alg-leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/jinvicky/alg-leet-code/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/jinvicky/alg-leet-code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/jinvicky/alg-leet-code/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/jinvicky/alg-leet-code/tree/master/0441-arranging-coins) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/jinvicky/alg-leet-code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jinvicky/alg-leet-code/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/jinvicky/alg-leet-code/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/2428-equal-row-and-column-pairs) |
@@ -486,4 +488,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jinvicky/alg-leet-code/tree/master/0561-array-partition) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jinvicky/alg-leet-code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
