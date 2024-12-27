@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/jinvicky/alg-leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jinvicky/alg-leet-code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/jinvicky/alg-leet-code/tree/master/1448-maximum-69-number) |
+| [2812-find-the-maximum-achievable-number](https://github.com/jinvicky/alg-leet-code/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/jinvicky/alg-leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jinvicky/alg-leet-code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3321-type-of-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/3321-type-of-triangle) |
