@@ -4,11 +4,8 @@ class Solution {
         int result = 0;
 
         for (int i = 1; i <= n; i++) {
-            for (int k : kases) {
-                if(i%k == 0) {
-                    result+=i;
-                    break;
-                }
+            if (i % 3 == 0 || i % 5 == 0 || i % 7 == 0) {
+                result += i;
             }
         }
         return result;
