@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jinvicky/alg-leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jinvicky/alg-leet-code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/jinvicky/alg-leet-code/tree/master/1448-maximum-69-number) |
+| [1610-xor-operation-in-an-array](https://github.com/jinvicky/alg-leet-code/tree/master/1610-xor-operation-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jinvicky/alg-leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/jinvicky/alg-leet-code/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/jinvicky/alg-leet-code/tree/master/2812-find-the-maximum-achievable-number) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/jinvicky/alg-leet-code/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/jinvicky/alg-leet-code/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jinvicky/alg-leet-code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/jinvicky/alg-leet-code/tree/master/1610-xor-operation-in-an-array) |
 ## Linked List
 |  |
 | ------- |
