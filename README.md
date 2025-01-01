@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jinvicky/alg-leet-code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/jinvicky/alg-leet-code/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/jinvicky/alg-leet-code/tree/master/1610-xor-operation-in-an-array) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/jinvicky/alg-leet-code/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jinvicky/alg-leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/jinvicky/alg-leet-code/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/jinvicky/alg-leet-code/tree/master/2812-find-the-maximum-achievable-number) |
