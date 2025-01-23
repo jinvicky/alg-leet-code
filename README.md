@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jinvicky/alg-leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/jinvicky/alg-leet-code/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/jinvicky/alg-leet-code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jinvicky/alg-leet-code/tree/master/0739-daily-temperatures) |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jinvicky/alg-leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/jinvicky/alg-leet-code/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/jinvicky/alg-leet-code/tree/master/0904-leaf-similar-trees) |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jinvicky/alg-leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0871-keys-and-rooms](https://github.com/jinvicky/alg-leet-code/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/jinvicky/alg-leet-code/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
@@ -477,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jinvicky/alg-leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/jinvicky/alg-leet-code/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/jinvicky/alg-leet-code/tree/master/0904-leaf-similar-trees) |
