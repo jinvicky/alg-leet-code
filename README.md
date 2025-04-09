@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1791-richest-customer-wealth](https://github.com/jinvicky/alg-leet-code/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/jinvicky/alg-leet-code/tree/master/1833-find-the-highest-altitude) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jinvicky/alg-leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jinvicky/alg-leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jinvicky/alg-leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jinvicky/alg-leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jinvicky/alg-leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jinvicky/alg-leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/jinvicky/alg-leet-code/tree/master/2636-maximum-subsequence-score) |
 | [3226-minimum-number-game](https://github.com/jinvicky/alg-leet-code/tree/master/3226-minimum-number-game) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
 | [1448-maximum-69-number](https://github.com/jinvicky/alg-leet-code/tree/master/1448-maximum-69-number) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jinvicky/alg-leet-code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jinvicky/alg-leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jinvicky/alg-leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/jinvicky/alg-leet-code/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2636-maximum-subsequence-score](https://github.com/jinvicky/alg-leet-code/tree/master/2636-maximum-subsequence-score) |
@@ -515,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jinvicky/alg-leet-code/tree/master/0561-array-partition) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jinvicky/alg-leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Number Theory
 |  |
 | ------- |
