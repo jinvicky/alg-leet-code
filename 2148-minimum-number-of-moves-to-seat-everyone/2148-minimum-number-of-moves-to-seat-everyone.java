@@ -19,11 +19,7 @@ class Solution {
         for(int j = 0; j < students.length; j++){
             while (true) {
                 if(chairCnt[seatIdx] > 0) { // 앉을 수 있다면
-                System.out.println(chairCnt[seatIdx] 
-                + " and " + seatIdx);
                     int stdPos = students[j]; // 현재 학생의 위치
-                    // int seatPos = seats[seatIdx]; // 현재 의자의 위치
-
                     answer += Math.abs(stdPos - seatIdx);
 
                     chairCnt[seatIdx]--; // 현재위치의 의자개수 감소
