@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jinvicky/alg-leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/jinvicky/alg-leet-code/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2428-equal-row-and-column-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/2428-equal-row-and-column-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jinvicky/alg-leet-code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jinvicky/alg-leet-code/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jinvicky/alg-leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/jinvicky/alg-leet-code/tree/master/2636-maximum-subsequence-score) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/jinvicky/alg-leet-code/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/jinvicky/alg-leet-code/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/2428-equal-row-and-column-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jinvicky/alg-leet-code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jinvicky/alg-leet-code/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3226-minimum-number-game](https://github.com/jinvicky/alg-leet-code/tree/master/3226-minimum-number-game) |
 | [3625-stone-removal-game](https://github.com/jinvicky/alg-leet-code/tree/master/3625-stone-removal-game) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jinvicky/alg-leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jinvicky/alg-leet-code/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/2428-equal-row-and-column-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jinvicky/alg-leet-code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/jinvicky/alg-leet-code/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/jinvicky/alg-leet-code/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
@@ -330,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jinvicky/alg-leet-code/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jinvicky/alg-leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/jinvicky/alg-leet-code/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jinvicky/alg-leet-code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2636-maximum-subsequence-score](https://github.com/jinvicky/alg-leet-code/tree/master/2636-maximum-subsequence-score) |
 | [3226-minimum-number-game](https://github.com/jinvicky/alg-leet-code/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/3321-type-of-triangle) |
@@ -371,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jinvicky/alg-leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/jinvicky/alg-leet-code/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/jinvicky/alg-leet-code/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jinvicky/alg-leet-code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2636-maximum-subsequence-score](https://github.com/jinvicky/alg-leet-code/tree/master/2636-maximum-subsequence-score) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jinvicky/alg-leet-code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Queue
@@ -457,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/jinvicky/alg-leet-code/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jinvicky/alg-leet-code/tree/master/2413-smallest-number-in-infinite-set) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jinvicky/alg-leet-code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jinvicky/alg-leet-code/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/jinvicky/alg-leet-code/tree/master/2636-maximum-subsequence-score) |
 | [3226-minimum-number-game](https://github.com/jinvicky/alg-leet-code/tree/master/3226-minimum-number-game) |
