@@ -15,8 +15,6 @@ class Solution {
             int key = nums[i];
             for (int j = i; j < nums.length; j++) {
                 nums[j] = nums[j] - key;
-
-                System.out.println(nums[j]);
             }
             answer++;
         }
