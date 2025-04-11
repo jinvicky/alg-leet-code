@@ -511,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/jinvicky/alg-leet-code/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jinvicky/alg-leet-code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jinvicky/alg-leet-code/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/jinvicky/alg-leet-code/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/jinvicky/alg-leet-code/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/jinvicky/alg-leet-code/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/jinvicky/alg-leet-code/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jinvicky/alg-leet-code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jinvicky/alg-leet-code/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/jinvicky/alg-leet-code/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/jinvicky/alg-leet-code/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jinvicky/alg-leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0813-all-paths-from-source-to-target](https://github.com/jinvicky/alg-leet-code/tree/master/0813-all-paths-from-source-to-target) |
 ## Enumeration
 |  |
 | ------- |
@@ -546,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/jinvicky/alg-leet-code/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/jinvicky/alg-leet-code/tree/master/0871-keys-and-rooms) |
 ## Database
 |  |
