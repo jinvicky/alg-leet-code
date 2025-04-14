@@ -5,7 +5,6 @@ class Solution {
         int right = charArr.length -1;
 
         while(left <= right) {
-            System.out.println(charArr[left] + " and " + charArr[right]);
             if(charArr[left] != charArr[right]) {
                 if(charArr[left] > charArr[right]) {
                     charArr[left] = charArr[right];   
