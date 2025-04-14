@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jinvicky/alg-leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/jinvicky/alg-leet-code/tree/master/2636-maximum-subsequence-score) |
 | [2714-left-and-right-sum-differences](https://github.com/jinvicky/alg-leet-code/tree/master/2714-left-and-right-sum-differences) |
+| [2756-buy-two-chocolates](https://github.com/jinvicky/alg-leet-code/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/jinvicky/alg-leet-code/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/jinvicky/alg-leet-code/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/jinvicky/alg-leet-code/tree/master/3194-find-words-containing-character) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jinvicky/alg-leet-code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/jinvicky/alg-leet-code/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2636-maximum-subsequence-score](https://github.com/jinvicky/alg-leet-code/tree/master/2636-maximum-subsequence-score) |
+| [2756-buy-two-chocolates](https://github.com/jinvicky/alg-leet-code/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/jinvicky/alg-leet-code/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/3321-type-of-triangle) |
 ## Design
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2663-distribute-money-to-maximum-children](https://github.com/jinvicky/alg-leet-code/tree/master/2663-distribute-money-to-maximum-children) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jinvicky/alg-leet-code/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/jinvicky/alg-leet-code/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2756-buy-two-chocolates](https://github.com/jinvicky/alg-leet-code/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/jinvicky/alg-leet-code/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jinvicky/alg-leet-code/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jinvicky/alg-leet-code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
