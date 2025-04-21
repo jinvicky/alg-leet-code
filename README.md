@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jinvicky/alg-leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/jinvicky/alg-leet-code/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1894-merge-strings-alternately](https://github.com/jinvicky/alg-leet-code/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jinvicky/alg-leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/jinvicky/alg-leet-code/tree/master/2032-largest-odd-number-in-string) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
 | [1304-longest-happy-string](https://github.com/jinvicky/alg-leet-code/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/jinvicky/alg-leet-code/tree/master/1448-maximum-69-number) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/jinvicky/alg-leet-code/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/jinvicky/alg-leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/jinvicky/alg-leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jinvicky/alg-leet-code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
