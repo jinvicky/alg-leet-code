@@ -4,23 +4,6 @@ class Solution {
         String hh = time.split(":")[0];
         String mm = time.split(":")[1];
 
-        // if(hc == '?') {
-        //     if(i == 0) {
-        //         // 최대는 2다.
-        //         sb.setCharAt(i, '2');
-        //     } else {
-        //         if(sb.charAt(i-1) != '2') {
-        //             sb.setCharAt(i, '9');
-        //         } else {
-
-        //         sb.setCharAt(i, '3');
-        //         }
-        //         // 최대는 3이다. 
-        //     }
-        // } 
-
-        System.out.println(hh + " and " + mm);
-
         // 둘다 비었거나 둘째만 빈 경우  -> 첫째 기준으로 간다.
         // 첫째만 빈 경우 -> 둘째 기준으로 간다.
         for (int i = 0; i < hh.length(); i++) {
