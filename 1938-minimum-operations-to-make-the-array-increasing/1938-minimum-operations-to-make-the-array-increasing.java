@@ -15,29 +15,13 @@ class Solution {
                 minOp++;
                 nums[i+1] = next + 1;
                 continue;
-            }
-
-            else if(cur >= nums[i+1]) {
+            } else if(cur >= nums[i+1]) {
                 int max = Math.max(cur + 1, nums[i+1]);
                 int diff = Math.abs(nums[i+1] - max);
 
                 minOp += diff;
                 nums[i+1] = max;
             }
-
-            // while (cur >= nums[i + 1]) { // 지금 요소가 더 크다면 최소 같아질 때까지 반복 연산 
-            //     int max = Math.max(cur + 1, next);
-            //     int diff = Math.abs(nums[i+1]- max);
-
-            //     minOp+= max;
-            //     nums[i+1] =  max;
-            // }
-
-            // // 같아졌으니 다음 요소를 ++하고 통과 
-            // minOp++;
-            // nums[i+1] = nums[i+1] + 1;
-
-            System.out.println(i + " and " +minOp);
         }
         return minOp;
     }
