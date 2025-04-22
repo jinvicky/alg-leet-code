@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/jinvicky/alg-leet-code/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/jinvicky/alg-leet-code/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/jinvicky/alg-leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/jinvicky/alg-leet-code/tree/master/1833-find-the-highest-altitude) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/jinvicky/alg-leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jinvicky/alg-leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/jinvicky/alg-leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jinvicky/alg-leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jinvicky/alg-leet-code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jinvicky/alg-leet-code/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
 | [1304-longest-happy-string](https://github.com/jinvicky/alg-leet-code/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/jinvicky/alg-leet-code/tree/master/1448-maximum-69-number) |
+| [1829-maximum-units-on-a-truck](https://github.com/jinvicky/alg-leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/jinvicky/alg-leet-code/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/jinvicky/alg-leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/jinvicky/alg-leet-code/tree/master/2032-largest-odd-number-in-string) |
