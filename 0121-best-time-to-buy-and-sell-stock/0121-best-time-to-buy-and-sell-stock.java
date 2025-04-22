@@ -9,11 +9,7 @@ class Solution {
             } else {
                 answer = Math.max(answer, Math.abs(myStock - prices[i]));
             }
-
-            System.out.println(myStock);
         }
-
-
         return answer;
     }
 }
