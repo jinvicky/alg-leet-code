@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/jinvicky/alg-leet-code/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/jinvicky/alg-leet-code/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/jinvicky/alg-leet-code/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/jinvicky/alg-leet-code/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/jinvicky/alg-leet-code/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0680-valid-palindrome-ii) |
