@@ -11,10 +11,6 @@ class Solution {
         return recursive(total);
     }
     public int addDigits(int num) {
-        if(num < 10) {
-            return num;
-        }
-
-        return recursive(num);
+        return num < 10 ? num : recursive(num);
     }
 }
