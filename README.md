@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/jinvicky/alg-leet-code/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/jinvicky/alg-leet-code/tree/master/1646-kth-missing-positive-number) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jinvicky/alg-leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/jinvicky/alg-leet-code/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jinvicky/alg-leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jinvicky/alg-leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/jinvicky/alg-leet-code/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1894-merge-strings-alternately](https://github.com/jinvicky/alg-leet-code/tree/master/1894-merge-strings-alternately) |
