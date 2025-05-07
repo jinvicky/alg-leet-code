@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/jinvicky/alg-leet-code/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1894-merge-strings-alternately](https://github.com/jinvicky/alg-leet-code/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jinvicky/alg-leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2011-maximum-value-after-insertion](https://github.com/jinvicky/alg-leet-code/tree/master/2011-maximum-value-after-insertion) |
 | [2032-largest-odd-number-in-string](https://github.com/jinvicky/alg-leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jinvicky/alg-leet-code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jinvicky/alg-leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/jinvicky/alg-leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/jinvicky/alg-leet-code/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/jinvicky/alg-leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2011-maximum-value-after-insertion](https://github.com/jinvicky/alg-leet-code/tree/master/2011-maximum-value-after-insertion) |
 | [2032-largest-odd-number-in-string](https://github.com/jinvicky/alg-leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jinvicky/alg-leet-code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jinvicky/alg-leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
