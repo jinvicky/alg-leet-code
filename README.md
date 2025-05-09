@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/jinvicky/alg-leet-code/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/jinvicky/alg-leet-code/tree/master/0907-koko-eating-bananas) |
 | [0979-di-string-match](https://github.com/jinvicky/alg-leet-code/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/jinvicky/alg-leet-code/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/jinvicky/alg-leet-code/tree/master/1046-max-consecutive-ones-iii) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/jinvicky/alg-leet-code/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/jinvicky/alg-leet-code/tree/master/0441-arranging-coins) |
 | [0797-rabbits-in-forest](https://github.com/jinvicky/alg-leet-code/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/jinvicky/alg-leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/jinvicky/alg-leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/jinvicky/alg-leet-code/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
+| [1018-largest-perimeter-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
 | [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
@@ -423,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/jinvicky/alg-leet-code/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/jinvicky/alg-leet-code/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/jinvicky/alg-leet-code/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
 | [1304-longest-happy-string](https://github.com/jinvicky/alg-leet-code/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/jinvicky/alg-leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
