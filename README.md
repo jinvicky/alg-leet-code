@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/jinvicky/alg-leet-code/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/jinvicky/alg-leet-code/tree/master/1304-longest-happy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jinvicky/alg-leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/jinvicky/alg-leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jinvicky/alg-leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
 | [1304-longest-happy-string](https://github.com/jinvicky/alg-leet-code/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/jinvicky/alg-leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/jinvicky/alg-leet-code/tree/master/1448-maximum-69-number) |
 | [1829-maximum-units-on-a-truck](https://github.com/jinvicky/alg-leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/jinvicky/alg-leet-code/tree/master/1858-latest-time-by-replacing-hidden-digits) |
