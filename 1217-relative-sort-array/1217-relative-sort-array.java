@@ -24,9 +24,7 @@ class Solution {
             map.remove(n);
         }
 
-        System.out.println(map);
         // 그대로 map을 순환해서 add
-
         for (Map.Entry<Integer, List<Integer>> entry : map.entrySet()) {
             int k = entry.getKey();
             List<Integer> v = entry.getValue();
