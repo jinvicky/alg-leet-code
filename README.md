@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/jinvicky/alg-leet-code/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/jinvicky/alg-leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
+| [1217-relative-sort-array](https://github.com/jinvicky/alg-leet-code/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/jinvicky/alg-leet-code/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/jinvicky/alg-leet-code/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/jinvicky/alg-leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/jinvicky/alg-leet-code/tree/master/0797-rabbits-in-forest) |
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
+| [1217-relative-sort-array](https://github.com/jinvicky/alg-leet-code/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/jinvicky/alg-leet-code/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/jinvicky/alg-leet-code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jinvicky/alg-leet-code/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
+| [1217-relative-sort-array](https://github.com/jinvicky/alg-leet-code/tree/master/1217-relative-sort-array) |
 | [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/jinvicky/alg-leet-code/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -644,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jinvicky/alg-leet-code/tree/master/0561-array-partition) |
+| [1217-relative-sort-array](https://github.com/jinvicky/alg-leet-code/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jinvicky/alg-leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Number Theory
 |  |
