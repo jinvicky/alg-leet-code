@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/jinvicky/alg-leet-code/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/jinvicky/alg-leet-code/tree/master/0907-koko-eating-bananas) |
 | [0979-di-string-match](https://github.com/jinvicky/alg-leet-code/tree/master/0979-di-string-match) |
+| [1009-pancake-sorting](https://github.com/jinvicky/alg-leet-code/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/jinvicky/alg-leet-code/tree/master/1036-rotting-oranges) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/jinvicky/alg-leet-code/tree/master/0908-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/jinvicky/alg-leet-code/tree/master/0979-di-string-match) |
+| [1009-pancake-sorting](https://github.com/jinvicky/alg-leet-code/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/jinvicky/alg-leet-code/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
+| [1009-pancake-sorting](https://github.com/jinvicky/alg-leet-code/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
@@ -435,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/jinvicky/alg-leet-code/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/jinvicky/alg-leet-code/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/jinvicky/alg-leet-code/tree/master/0979-di-string-match) |
+| [1009-pancake-sorting](https://github.com/jinvicky/alg-leet-code/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/jinvicky/alg-leet-code/tree/master/1095-two-city-scheduling) |
 | [1304-longest-happy-string](https://github.com/jinvicky/alg-leet-code/tree/master/1304-longest-happy-string) |
