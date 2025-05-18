@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jinvicky/alg-leet-code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/jinvicky/alg-leet-code/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/jinvicky/alg-leet-code/tree/master/1610-xor-operation-in-an-array) |
+| [1861-building-boxes](https://github.com/jinvicky/alg-leet-code/tree/master/1861-building-boxes) |
 | [2032-largest-odd-number-in-string](https://github.com/jinvicky/alg-leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jinvicky/alg-leet-code/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/jinvicky/alg-leet-code/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/jinvicky/alg-leet-code/tree/master/1646-kth-missing-positive-number) |
+| [1861-building-boxes](https://github.com/jinvicky/alg-leet-code/tree/master/1861-building-boxes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jinvicky/alg-leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/jinvicky/alg-leet-code/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Interactive
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/jinvicky/alg-leet-code/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1829-maximum-units-on-a-truck](https://github.com/jinvicky/alg-leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/jinvicky/alg-leet-code/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [1861-building-boxes](https://github.com/jinvicky/alg-leet-code/tree/master/1861-building-boxes) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/jinvicky/alg-leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2011-maximum-value-after-insertion](https://github.com/jinvicky/alg-leet-code/tree/master/2011-maximum-value-after-insertion) |
 | [2032-largest-odd-number-in-string](https://github.com/jinvicky/alg-leet-code/tree/master/2032-largest-odd-number-in-string) |
