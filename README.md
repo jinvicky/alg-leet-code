@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/jinvicky/alg-leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2077-largest-number-after-mutating-substring](https://github.com/jinvicky/alg-leet-code/tree/master/2077-largest-number-after-mutating-substring) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jinvicky/alg-leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jinvicky/alg-leet-code/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/jinvicky/alg-leet-code/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jinvicky/alg-leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jinvicky/alg-leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jinvicky/alg-leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/jinvicky/alg-leet-code/tree/master/1646-kth-missing-positive-number) |
 | [1861-building-boxes](https://github.com/jinvicky/alg-leet-code/tree/master/1861-building-boxes) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jinvicky/alg-leet-code/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jinvicky/alg-leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/jinvicky/alg-leet-code/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Interactive
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2077-largest-number-after-mutating-substring](https://github.com/jinvicky/alg-leet-code/tree/master/2077-largest-number-after-mutating-substring) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jinvicky/alg-leet-code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jinvicky/alg-leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jinvicky/alg-leet-code/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/jinvicky/alg-leet-code/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jinvicky/alg-leet-code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jinvicky/alg-leet-code/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
