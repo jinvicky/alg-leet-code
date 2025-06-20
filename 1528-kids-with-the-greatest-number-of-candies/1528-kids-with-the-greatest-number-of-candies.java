@@ -1,18 +1,24 @@
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
-        int max = 0;
+        List<Boolean> answer = new ArrayList<>();
 
-        for(int i = 0; i < candies.length; i++) {
-            int item = candies[i];
-            // max = Math.max(max, item);
-            max = item > max ? item : max;
-            candies[i] = item + extraCandies;
+        // 현재 배열에서 가장 큰 값을 구한다. 
+        int currentMax = 0;
+        for(int c : candies) {
+            currentMax = Math.max(currentMax, c);
         }
 
-        List<Boolean> ans = new ArrayList<>();
-        for(int j = 0; j < candies.length; j++) {
-            ans.add(candies[j] >= max ? true : false);
+        // System.out.println(currentMax);
+
+        // 추가 캔디를 더했을 때 currentMax보다 크면 true, 아니면 false를 추가한다.
+        for(int c : candies) {
+            if(c+ extraCandies >= currentMax) {
+                answer.add(true);
+            } else {
+                answer.add(false);
+            }
         }
-        return ans;
+
+        return answer;
     }
 }
