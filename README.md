@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/jinvicky/alg-leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/jinvicky/alg-leet-code/tree/master/1833-find-the-highest-altitude) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/jinvicky/alg-leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/jinvicky/alg-leet-code/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2077-largest-number-after-mutating-substring](https://github.com/jinvicky/alg-leet-code/tree/master/2077-largest-number-after-mutating-substring) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jinvicky/alg-leet-code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jinvicky/alg-leet-code/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/jinvicky/alg-leet-code/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/jinvicky/alg-leet-code/tree/master/1791-richest-customer-wealth) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/jinvicky/alg-leet-code/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/jinvicky/alg-leet-code/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/jinvicky/alg-leet-code/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/jinvicky/alg-leet-code/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/jinvicky/alg-leet-code/tree/master/1036-rotting-oranges) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/jinvicky/alg-leet-code/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jinvicky/alg-leet-code/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
