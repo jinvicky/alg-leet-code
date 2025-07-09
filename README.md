@@ -423,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/jinvicky/alg-leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/jinvicky/alg-leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/jinvicky/alg-leet-code/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/jinvicky/alg-leet-code/tree/master/0969-number-of-recent-calls) |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jinvicky/alg-leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/jinvicky/alg-leet-code/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/jinvicky/alg-leet-code/tree/master/0969-number-of-recent-calls) |
@@ -556,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/jinvicky/alg-leet-code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/jinvicky/alg-leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/jinvicky/alg-leet-code/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/jinvicky/alg-leet-code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jinvicky/alg-leet-code/tree/master/0739-daily-temperatures) |
