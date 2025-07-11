@@ -11,19 +11,15 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        HashSet<ListNode> set = new HashSet<>();
-
-        if (head == null || head.next == null)
-            return false;
-
-        ListNode fast = head;
-
-        while (fast != null) {
-            if(!set.add(fast)) {
+        /**
+            hasSet으로 중복 노드를 체크한다. head가 널일때까지
+         */
+        Set<ListNode> set = new HashSet<>();
+        while (head != null) {
+            if(!set.add(head)) {
                 return true;
             }
-            // 노드 업데이트 
-            fast = fast.next;
+            head = head.next;
         }
         return false;
     }
