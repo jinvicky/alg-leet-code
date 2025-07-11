@@ -17,8 +17,6 @@ class Solution {
         int right = sb.toString().length() -1;
 
         while (left <= right) {
-            System.out.println(sb.toString().charAt(left));
-            System.out.println(sb.toString().charAt(right));
             if(sb.toString().charAt(left) != sb.toString().charAt(right)) {
                 return false;
             }
