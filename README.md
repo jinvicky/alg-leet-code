@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/jinvicky/alg-leet-code/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jinvicky/alg-leet-code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/jinvicky/alg-leet-code/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/jinvicky/alg-leet-code/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jinvicky/alg-leet-code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/jinvicky/alg-leet-code/tree/master/0890-lemonade-change) |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jinvicky/alg-leet-code/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/jinvicky/alg-leet-code/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jinvicky/alg-leet-code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/jinvicky/alg-leet-code/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/jinvicky/alg-leet-code/tree/master/1023-time-based-key-value-store) |
