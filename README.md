@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/jinvicky/alg-leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/jinvicky/alg-leet-code/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/jinvicky/alg-leet-code/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/jinvicky/alg-leet-code/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/jinvicky/alg-leet-code/tree/master/0303-range-sum-query-immutable) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/jinvicky/alg-leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/jinvicky/alg-leet-code/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/jinvicky/alg-leet-code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/jinvicky/alg-leet-code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/jinvicky/alg-leet-code/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/jinvicky/alg-leet-code/tree/master/0441-arranging-coins) |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jinvicky/alg-leet-code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jinvicky/alg-leet-code/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/jinvicky/alg-leet-code/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/jinvicky/alg-leet-code/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jinvicky/alg-leet-code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -314,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/jinvicky/alg-leet-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jinvicky/alg-leet-code/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/jinvicky/alg-leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0387-first-unique-character-in-a-string) |
@@ -359,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/jinvicky/alg-leet-code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jinvicky/alg-leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jinvicky/alg-leet-code/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/jinvicky/alg-leet-code/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/jinvicky/alg-leet-code/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -395,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/jinvicky/alg-leet-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jinvicky/alg-leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/jinvicky/alg-leet-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jinvicky/alg-leet-code/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/jinvicky/alg-leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/jinvicky/alg-leet-code/tree/master/0436-find-right-interval) |
