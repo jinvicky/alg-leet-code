@@ -5,9 +5,10 @@ class Solution {
 
         for (int i = 1; i < prices.length; i++) {
             max[i] = Math.max(prices[i] - minBuy, max[i-1]);
-            minBuy = Math.min(prices[i], minBuy);
+            if(prices[i] < minBuy) {
+                minBuy = prices[i];
+            }
         }
-
         return max[prices.length-1];
     }
 }
