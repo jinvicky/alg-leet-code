@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jinvicky/alg-leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/jinvicky/alg-leet-code/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/jinvicky/alg-leet-code/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/jinvicky/alg-leet-code/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jinvicky/alg-leet-code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jinvicky/alg-leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/jinvicky/alg-leet-code/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/jinvicky/alg-leet-code/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/jinvicky/alg-leet-code/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/jinvicky/alg-leet-code/tree/master/0242-valid-anagram) |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/jinvicky/alg-leet-code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jinvicky/alg-leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jinvicky/alg-leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/jinvicky/alg-leet-code/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/jinvicky/alg-leet-code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/jinvicky/alg-leet-code/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
@@ -518,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jinvicky/alg-leet-code/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/jinvicky/alg-leet-code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 ## Dynamic Programming
@@ -527,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jinvicky/alg-leet-code/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jinvicky/alg-leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/jinvicky/alg-leet-code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/jinvicky/alg-leet-code/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/jinvicky/alg-leet-code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/jinvicky/alg-leet-code/tree/master/0392-is-subsequence) |
@@ -543,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/jinvicky/alg-leet-code/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/jinvicky/alg-leet-code/tree/master/1236-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
