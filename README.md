@@ -517,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0572-subtree-of-another-tree) |
 ## Trie
 |  |
 | ------- |
@@ -628,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jinvicky/alg-leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/jinvicky/alg-leet-code/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/jinvicky/alg-leet-code/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
@@ -638,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jinvicky/alg-leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/jinvicky/alg-leet-code/tree/master/0200-number-of-islands) |
+| [0572-subtree-of-another-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/jinvicky/alg-leet-code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jinvicky/alg-leet-code/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/jinvicky/alg-leet-code/tree/master/0813-all-paths-from-source-to-target) |
@@ -665,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jinvicky/alg-leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/jinvicky/alg-leet-code/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/jinvicky/alg-leet-code/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
@@ -713,4 +717,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/jinvicky/alg-leet-code/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jinvicky/alg-leet-code/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jinvicky/alg-leet-code/tree/master/2121-find-if-path-exists-in-graph) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
