@@ -15,24 +15,19 @@
  */
 class Solution {
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        root = match(root, subRoot);
-        return root != null && check(root, subRoot);
+        if (root == null)
+            return subRoot == null;
+        return isSame(root, subRoot) || isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
     }
 
-    public boolean check(TreeNode root, TreeNode subRoot) {
-        if(root==null && subRoot==null) return true;
-        if(root==null || subRoot==null) return false;
-        if(root.val!=subRoot.val) return false;
-        return check(root.left, subRoot.left)&&check(root.right, subRoot.right);
-    }
+    private boolean isSame(TreeNode t1, TreeNode t2) {
+        if (t1 == null && t2 == null)
+            return true;
+        if (t1 == null || t2 == null)
+            return false;
 
-    public TreeNode match(TreeNode root, TreeNode subRoot) {
-        if(root==null) return null;
-        if(check(root, subRoot)) return root;
-
-        TreeNode l = match(root.left, subRoot);
-        if(l!=null) return l;
-        TreeNode r = match(root.right, subRoot);
-        return r;
+        if (t1.val != t2.val)
+            return false;
+        return isSame(t1.left, t2.left) && isSame(t1.right, t2.right);
     }
 }
