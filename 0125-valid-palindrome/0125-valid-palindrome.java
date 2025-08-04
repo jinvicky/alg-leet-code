@@ -1,15 +1,28 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        if (s.equals(" "))
-            return true;
-
+        /**
+         변환하고 바꾸면 늦는데..
+         */
         StringBuilder sb = new StringBuilder();
         for (char c : s.toCharArray()) {
-            if (c >= 'a' && c <= 'z' || c >= 'A' && c <= 'Z' || Character.isDigit(c)) {
+            if (Character.isDigit(c)) {
+                sb.append(c);
+            }
+            if (Character.isAlphabetic(c)) {
                 sb.append(Character.toLowerCase(c));
             }
         }
-        System.out.println(sb.toString());
-        return sb.toString().equals(sb.reverse().toString());
+
+        int left = 0;
+        int right = sb.toString().length() - 1;
+
+        while (left <= right) {
+            if (sb.toString().charAt(left) != sb.toString().charAt(right)) {
+                return false;
+            }
+            left++;
+            right--;
+        }
+        return true;
     }
 }
