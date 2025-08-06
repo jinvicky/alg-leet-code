@@ -1,11 +1,9 @@
 class Solution {
     public int hammingWeight(int n) {
-        // return Integer.bitCount(n);
-
         int count = 0;
-        while (n != 0) {
-            n &= (n - 1); // 가장 오른쪽 1 비트를 0으로 만듦
-            count++;
+        for (int i = 0; i < 32; i++) {
+            count += (n & 1); // 마지막 비트 확인
+            n >>>= 1; // 부호 없는 우측 시프트
         }
         return count;
     }
