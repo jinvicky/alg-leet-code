@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/jinvicky/alg-leet-code/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/jinvicky/alg-leet-code/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/jinvicky/alg-leet-code/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/jinvicky/alg-leet-code/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/jinvicky/alg-leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -547,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jinvicky/alg-leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/jinvicky/alg-leet-code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/jinvicky/alg-leet-code/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/jinvicky/alg-leet-code/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/jinvicky/alg-leet-code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/jinvicky/alg-leet-code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/jinvicky/alg-leet-code/tree/master/0435-non-overlapping-intervals) |
@@ -674,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/jinvicky/alg-leet-code/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/jinvicky/alg-leet-code/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/jinvicky/alg-leet-code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jinvicky/alg-leet-code/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/jinvicky/alg-leet-code/tree/master/0813-all-paths-from-source-to-target) |
