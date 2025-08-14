@@ -18,16 +18,12 @@ class Solution {
             List<Integer> row = new ArrayList<>();
             row.add(1);
             for (int j = 1; j < i; j++) {
-                System.out.println(i + " and " + j);
-
                 dp[i][j] = dp[i - 1][j - 1] + dp[i - 1][j]; // 내 위와 내 왼쪽 대각선을 더한다.
-
                 row.add(dp[i][j]);
             }
             row.add(1);
             answer.add(row);
         }
-
         return answer;
     }
 }
