@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/jinvicky/alg-leet-code/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/jinvicky/alg-leet-code/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/1018-largest-perimeter-triangle) |
+| [1086-divisor-game](https://github.com/jinvicky/alg-leet-code/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jinvicky/alg-leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/jinvicky/alg-leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/jinvicky/alg-leet-code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -569,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/jinvicky/alg-leet-code/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/jinvicky/alg-leet-code/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/jinvicky/alg-leet-code/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/jinvicky/alg-leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/jinvicky/alg-leet-code/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jinvicky/alg-leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -770,4 +772,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jinvicky/alg-leet-code/tree/master/0347-top-k-frequent-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/jinvicky/alg-leet-code/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/jinvicky/alg-leet-code/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
