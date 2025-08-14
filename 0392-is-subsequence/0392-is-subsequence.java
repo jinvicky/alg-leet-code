@@ -1,22 +1,13 @@
 class Solution {
-     public boolean isSubsequence(String s, String t) {
-        if(s.equals(t)) {
-            return true;
-        } else if (s.length() > t.length()) {
-            return false;
-        }
-        
-        int pointer = 0;
-        int range = s.length();
-
+    public boolean isSubsequence(String s, String t) {
+        if(s.equals("")) return true;
+        int order = 0;
         for(int i = 0; i < t.length(); i++) {
-            if(pointer >= range) {
-                return true;
-            }
-            if(s.charAt(pointer) == t.charAt(i)) {
-                pointer++;
+            if (order == s.length()) return true;
+            if(t.charAt(i) == s.charAt(order)) {
+                order++;
             }
         }
-        return pointer >= range;
+        return order == s.length();
     }
 }
