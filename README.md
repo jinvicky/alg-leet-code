@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/jinvicky/alg-leet-code/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jinvicky/alg-leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jinvicky/alg-leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/jinvicky/alg-leet-code/tree/master/0134-gas-station) |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jinvicky/alg-leet-code/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jinvicky/alg-leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/jinvicky/alg-leet-code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/jinvicky/alg-leet-code/tree/master/0198-house-robber) |
