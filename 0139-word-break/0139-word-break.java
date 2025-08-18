@@ -1,19 +1,18 @@
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
-        
+        int n = s.length();
+        boolean[] dp = new boolean[n + 1];
+        dp[0] = true; // 빈 문자열은 항상 가능
 
-        boolean[] dp = new boolean[s.length() + 1];
-        dp[0] = true;
-
-        for(int i = 1; i <= s.length(); i++) {
-            for(String w : wordDict) {
-                int start = i - w.length();
-                if(start >= 0 && dp[start] && s.substring(start, i).equals(w)) {
-                    dp[i] = true;
-                    break;
+        for (int i = 0; i < n; i++) {
+            if (!dp[i]) continue; // 여기까지 못 오면 확장 불가
+            for (String w : wordDict) {
+                int j = i + w.length();
+                if (j <= n && s.startsWith(w, i)) {
+                    dp[j] = true;
                 }
             }
         }
-        return dp[s.length()];
+        return dp[n];
     }
 }
