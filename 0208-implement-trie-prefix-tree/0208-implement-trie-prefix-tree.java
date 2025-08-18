@@ -1,30 +1,27 @@
 class Trie {
 
-    private Map<String, Boolean> treeMap;
+    private List<String> list;
 
     public Trie() {
-        this.treeMap = new TreeMap<>();
+        this.list = new ArrayList<>();
     }
     
     public void insert(String word) {
-        this.treeMap.put(word, true);
+        this.list.add(word);
     }
     
     public boolean search(String word) {
-        if(this.treeMap.get(word) == null) {
-            return false;
+        for(String s : list) {
+            if(s.equals(word)) return true;
         }
-        return true;
+        return false;
     }
     
     public boolean startsWith(String prefix) {
-        for( Map.Entry<String, Boolean> e : this.treeMap.entrySet()){
-           String key = String.valueOf(e.getKey());
-           if(key.startsWith(prefix)) {
-                return true;
-           }
-       }
-       return false;
+        for(String s : list) {
+            if(s.startsWith(prefix)) return true;
+        }
+        return false;
     }
 }
 
