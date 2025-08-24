@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/jinvicky/alg-leet-code/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/jinvicky/alg-leet-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jinvicky/alg-leet-code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jinvicky/alg-leet-code/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/0088-merge-sorted-array) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jinvicky/alg-leet-code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jinvicky/alg-leet-code/tree/master/0200-number-of-islands) |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/jinvicky/alg-leet-code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jinvicky/alg-leet-code/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/jinvicky/alg-leet-code/tree/master/0735-asteroid-collision) |
