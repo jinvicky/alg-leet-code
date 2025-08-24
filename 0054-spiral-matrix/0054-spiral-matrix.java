@@ -9,28 +9,26 @@ class Solution {
 
         boolean[][] visited = new boolean[m][n];
 
-        // 방향: → ↓ ← ↑
-        int[] di = {0, 1, 0, -1};
-        int[] dj = {1, 0, -1, 0};
-
-        int i = 0, j = 0, dir = 0;
+        // 한 배열에 (row, col) 방향쌍을 보관: → ↓ ← ↑
+        int[][] dir = {{0,1}, {1,0}, {0,-1}, {-1,0}};
+        int d = 0;          // 현재 방향 인덱스
+        int i = 0, j = 0;   // 현재 위치
 
         for (int k = 0; k < m * n; k++) {
             ans.add(matrix[i][j]);
             visited[i][j] = true;
 
-            int ni = i + di[dir];
-            int nj = j + dj[dir];
+            int ni = i + dir[d][0];
+            int nj = j + dir[d][1];
 
-            // 경계 밖이거나 이미 방문 → 방향 전환
+            // 경계 밖이거나 이미 방문했다면 방향 전환
             if (ni < 0 || ni >= m || nj < 0 || nj >= n || visited[ni][nj]) {
-                dir = (dir + 1) % 4;
-                ni = i + di[dir];
-                nj = j + dj[dir];
+                d = (d + 1) % 4;   // 0→1→2→3→0
+                ni = i + dir[d][0];
+                nj = j + dir[d][1];
             }
 
-            i = ni;
-            j = nj;
+            i = ni; j = nj;
         }
         return ans;
     }
