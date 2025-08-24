@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/jinvicky/alg-leet-code/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jinvicky/alg-leet-code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/jinvicky/alg-leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jinvicky/alg-leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jinvicky/alg-leet-code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jinvicky/alg-leet-code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/jinvicky/alg-leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/jinvicky/alg-leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/jinvicky/alg-leet-code/tree/master/0937-online-stock-span) |
@@ -557,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/jinvicky/alg-leet-code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/jinvicky/alg-leet-code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jinvicky/alg-leet-code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1397-search-suggestions-system](https://github.com/jinvicky/alg-leet-code/tree/master/1397-search-suggestions-system) |
 ## Dynamic Programming
 |  |
@@ -691,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jinvicky/alg-leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/jinvicky/alg-leet-code/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jinvicky/alg-leet-code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0572-subtree-of-another-tree](https://github.com/jinvicky/alg-leet-code/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/jinvicky/alg-leet-code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jinvicky/alg-leet-code/tree/master/0733-flood-fill) |
