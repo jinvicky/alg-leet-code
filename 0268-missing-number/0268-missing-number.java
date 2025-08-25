@@ -10,8 +10,6 @@ class Solution {
         for (int i = 0; i <= nums.length; i++) {
             expected += i;
         }
-        System.out.println(expected + " and " + input);
-
         return expected - input;
     }
 }
