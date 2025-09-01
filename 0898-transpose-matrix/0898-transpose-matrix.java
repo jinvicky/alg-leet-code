@@ -6,7 +6,6 @@ class Solution {
 
         while (j < matrix[0].length) {
             for (int i = 0; i < matrix.length; i++) {
-                System.out.println(matrix[i][j]);
                 answer[j][i] = matrix[i][j];
             }
             j++;
