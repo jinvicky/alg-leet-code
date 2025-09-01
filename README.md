@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/jinvicky/alg-leet-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jinvicky/alg-leet-code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/jinvicky/alg-leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jinvicky/alg-leet-code/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/0088-merge-sorted-array) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/jinvicky/alg-leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jinvicky/alg-leet-code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jinvicky/alg-leet-code/tree/master/0200-number-of-islands) |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/jinvicky/alg-leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jinvicky/alg-leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/jinvicky/alg-leet-code/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/jinvicky/alg-leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jinvicky/alg-leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/jinvicky/alg-leet-code/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/jinvicky/alg-leet-code/tree/master/0141-linked-list-cycle) |
