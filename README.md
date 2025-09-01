@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/jinvicky/alg-leet-code/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jinvicky/alg-leet-code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/jinvicky/alg-leet-code/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/jinvicky/alg-leet-code/tree/master/0907-koko-eating-bananas) |
 | [0979-di-string-match](https://github.com/jinvicky/alg-leet-code/tree/master/0979-di-string-match) |
 | [1009-pancake-sorting](https://github.com/jinvicky/alg-leet-code/tree/master/1009-pancake-sorting) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/jinvicky/alg-leet-code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jinvicky/alg-leet-code/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/jinvicky/alg-leet-code/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/jinvicky/alg-leet-code/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/jinvicky/alg-leet-code/tree/master/1791-richest-customer-wealth) |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/jinvicky/alg-leet-code/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/jinvicky/alg-leet-code/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/jinvicky/alg-leet-code/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/jinvicky/alg-leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jinvicky/alg-leet-code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
