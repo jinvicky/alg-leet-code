@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/jinvicky/alg-leet-code/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/jinvicky/alg-leet-code/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/jinvicky/alg-leet-code/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/jinvicky/alg-leet-code/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jinvicky/alg-leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/jinvicky/alg-leet-code/tree/master/0724-find-pivot-index) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jinvicky/alg-leet-code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jinvicky/alg-leet-code/tree/master/0200-number-of-islands) |
+| [0661-image-smoother](https://github.com/jinvicky/alg-leet-code/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/jinvicky/alg-leet-code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jinvicky/alg-leet-code/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/jinvicky/alg-leet-code/tree/master/0861-flipping-an-image) |
