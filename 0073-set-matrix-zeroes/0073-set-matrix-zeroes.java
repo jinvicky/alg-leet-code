@@ -19,8 +19,6 @@ class Solution {
         for(int i = 0; i < matrix.length; i++) {
             for(int j = 0; j < matrix[0].length; j++) {
                 // assist[i][j]가 -1이면 0으로 바꾼다. 
-                System.out.println(assist[i][j]);
-
                 if(assist[i][j] == -1){
                     matrix[i][j] = 0;
                 }
