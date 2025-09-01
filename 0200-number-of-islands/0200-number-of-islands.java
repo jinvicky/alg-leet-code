@@ -1,30 +1,37 @@
 class Solution {
     public int numIslands(char[][] grid) {
+        boolean[][] visited = new boolean[grid.length][grid[0].length];
         int count = 0;
-
-        for(int i = 0; i < grid.length; i++) {
-            for(int j = 0; j < grid[0].length; j++) {
-                if(grid[i][j] == '1') {
-                    dfs(grid, i, j);
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[0].length; j++) {
+                int current = dfs(grid, visited, i, j);
+                if (current > 0)
                     count++;
-                }
             }
         }
-
         return count;
     }
 
-    private void dfs(char[][] grid, int r, int c) {
-        if( r< 0 || c < 0) return;
-        if(r >= grid.length || c >= grid[0].length) return;
-        // 이 스페셜 케이스를 잘 모르겠네
-        if(grid[r][c] == '0') return;
+    public int dfs(char[][] grid, boolean[][] visited, int i, int j) {
 
-        grid[r][c] = '0';
+        if (i < 0 || i >= grid.length || j < 0 || j >= grid[0].length) {
+            // 범위를 벗어나면 break;를 의미하는 0
+            return 0;
+        }
 
-        dfs(grid, r - 1, c);
-        dfs(grid, r + 1, c);
-        dfs(grid, r, c - 1);
-        dfs(grid, r, c + 1);
+        if (visited[i][j] || grid[i][j] == '0') {
+            return 0;
+        }
+
+        visited[i][j] = true;
+
+        int count = 1;
+
+        count += dfs(grid, visited, i + 1, j);
+        count += dfs(grid, visited, i - 1, j);
+        count += dfs(grid, visited, i, j + 1);
+        count += dfs(grid, visited, i, j - 1);
+
+        return count;
     }
 }
