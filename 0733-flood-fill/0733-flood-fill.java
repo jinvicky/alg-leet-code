@@ -1,26 +1,27 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        
-        if(image[sr][sc] == color) {
-            return image;
-        }
+        int fromColor = image[sr][sc];
+        if (color == fromColor) return image;
 
-        int startColor = image[sr][sc];
-
-        fill(image, sr, sc, startColor, color);
+        dfs(image, sr, sc, fromColor, color);
         return image;
     }
 
-    public void fill(int[][] image, int sr, int sc, int startColor, int newColor) {
-        if(sr < 0 || sc < 0) return;
-        if(sr >= image.length || sc >= image[0].length) return;
-        if(image[sr][sc] != startColor) return;
+    private void dfs(int[][] image, int i, int j, int fromColor, int toColor) {
+        // 범위를 벗어나면 리턴 
+        if (i < 0 || i >= image.length || j < 0 || j >= image[0].length) {
+            return;
+        }
+        // 조건을 만족하면=> 시작 픽셀의 이웃이라면 image[i][j]를 color로 칠한다.
+        if (image[i][j] != fromColor)
+            return;
 
-        image[sr][sc] = newColor;
+        // 방문 처리
+        image[i][j] = toColor;
 
-        fill(image, sr - 1, sc, startColor, newColor);
-        fill(image, sr + 1, sc, startColor, newColor);
-        fill(image, sr, sc - 1, startColor, newColor);
-        fill(image, sr, sc + 1, startColor, newColor);
+        dfs(image, i + 1, j, fromColor, toColor);
+        dfs(image, i - 1, j, fromColor, toColor);
+        dfs(image, i, j + 1, fromColor, toColor);
+        dfs(image, i, j - 1, fromColor, toColor);
     }
 }
