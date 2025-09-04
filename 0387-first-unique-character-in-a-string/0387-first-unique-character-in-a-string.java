@@ -1,16 +1,18 @@
 class Solution {
     public int firstUniqChar(String s) {
-       int[] freq = new int[26];
-       char[] chars = s.toCharArray();
-       for(char c : chars) {
-        freq[c-'a']++;
-       }
+        Map<Character, Integer> map = new HashMap<>();
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            map.put(c, map.getOrDefault(c, 0) + 1);
+        }
 
-       for(int i = 0; i < chars.length; i++) {
-            if(freq[chars[i] - 'a'] == 1) {
-                return i; // 어차피 위에서 이미 빈도수를 구했기 때문에 바로 리턴하면 더 효율적이다.
-            }
-       }
-       return -1;
+        System.out.println(map);
+
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (map.get(c) != null && map.get(c) == 1)
+                return i;
+        }
+        return -1;
     }
 }
