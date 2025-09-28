@@ -17,8 +17,10 @@ class Solution {
                 end = Math.max(curE, end);
             } else {
 
-                start = Math.max(curS, start);
-                end = Math.max(curE, end);
+                // start = Math.max(curS, start);
+                // end = Math.max(curE, end);
+                start = curS;
+                end = curE;
             }
 
             map.put(start, end);
