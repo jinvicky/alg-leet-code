@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jinvicky/alg-leet-code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/jinvicky/alg-leet-code/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/jinvicky/alg-leet-code/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/jinvicky/alg-leet-code/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jinvicky/alg-leet-code/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jinvicky/alg-leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/jinvicky/alg-leet-code/tree/master/2636-maximum-subsequence-score) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-capitalize-the-title](https://github.com/jinvicky/alg-leet-code/tree/master/2235-capitalize-the-title) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jinvicky/alg-leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/jinvicky/alg-leet-code/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/jinvicky/alg-leet-code/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jinvicky/alg-leet-code/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/jinvicky/alg-leet-code/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jinvicky/alg-leet-code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
