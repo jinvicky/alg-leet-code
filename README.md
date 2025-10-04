@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/jinvicky/alg-leet-code/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/jinvicky/alg-leet-code/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/jinvicky/alg-leet-code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0661-image-smoother](https://github.com/jinvicky/alg-leet-code/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/jinvicky/alg-leet-code/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jinvicky/alg-leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -481,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/jinvicky/alg-leet-code/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/jinvicky/alg-leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/jinvicky/alg-leet-code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
 | [1009-pancake-sorting](https://github.com/jinvicky/alg-leet-code/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/1018-largest-perimeter-triangle) |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/jinvicky/alg-leet-code/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/jinvicky/alg-leet-code/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/jinvicky/alg-leet-code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/jinvicky/alg-leet-code/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jinvicky/alg-leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -619,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/jinvicky/alg-leet-code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/jinvicky/alg-leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0583-delete-operation-for-two-strings](https://github.com/jinvicky/alg-leet-code/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/jinvicky/alg-leet-code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/jinvicky/alg-leet-code/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jinvicky/alg-leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/jinvicky/alg-leet-code/tree/master/0747-min-cost-climbing-stairs) |
