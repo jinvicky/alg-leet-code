@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/jinvicky/alg-leet-code/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/jinvicky/alg-leet-code/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/jinvicky/alg-leet-code/tree/master/0861-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/jinvicky/alg-leet-code/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jinvicky/alg-leet-code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/jinvicky/alg-leet-code/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/jinvicky/alg-leet-code/tree/master/0898-transpose-matrix) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/jinvicky/alg-leet-code/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/jinvicky/alg-leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/jinvicky/alg-leet-code/tree/master/0861-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/jinvicky/alg-leet-code/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/jinvicky/alg-leet-code/tree/master/0908-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/jinvicky/alg-leet-code/tree/master/0979-di-string-match) |
 | [1009-pancake-sorting](https://github.com/jinvicky/alg-leet-code/tree/master/1009-pancake-sorting) |
@@ -490,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/jinvicky/alg-leet-code/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jinvicky/alg-leet-code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/jinvicky/alg-leet-code/tree/master/0881-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/jinvicky/alg-leet-code/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/jinvicky/alg-leet-code/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/jinvicky/alg-leet-code/tree/master/1019-squares-of-a-sorted-array) |
@@ -545,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jinvicky/alg-leet-code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/jinvicky/alg-leet-code/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/jinvicky/alg-leet-code/tree/master/0797-rabbits-in-forest) |
+| [0881-boats-to-save-people](https://github.com/jinvicky/alg-leet-code/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/jinvicky/alg-leet-code/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/jinvicky/alg-leet-code/tree/master/0979-di-string-match) |
 | [1009-pancake-sorting](https://github.com/jinvicky/alg-leet-code/tree/master/1009-pancake-sorting) |
